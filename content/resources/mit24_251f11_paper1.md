@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cc6ba8e0-7401-e3bd-c9cc-e3d00c815988
 resourcetype: Document
 title: MIT24_251F11_paper1.pdf
 uid: 4eac292a-f730-b649-684f-6f6f9821a344
