@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f08a06ad-f898-301d-8745-482d2d921361
 ---
@@ -62,7 +64,7 @@ Oral presentation
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1st paper (8 pages)
+1{{< sup "st" >}} paper (8 pages)
 {{< tdclose >}}
 {{< tdopen >}}
 25%
@@ -71,7 +73,7 @@ Oral presentation
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-1st paper revision
+1{{< sup "st" >}} paper revision
 {{< tdclose >}}
 {{< tdopen >}}
 10%
@@ -80,7 +82,7 @@ Oral presentation
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-2nd paper (8 pages)
+2{{< sup "nd" >}} paper (8 pages)
 {{< tdclose >}}
 {{< tdopen >}}
 35%
