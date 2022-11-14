@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments for the course and examples of
+  student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,10 +32,10 @@ STUDENT EXAMPLES
 Comprehension exercise 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_comp1))
+({{% resource_link 9ab620ec-1cfd-0430-55dc-e6ab41a123cf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_s2_comp1))
+({{% resource_link f5fa3870-e8a2-4889-ea65-5d2eaad30e9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,10 +44,10 @@ Comprehension exercise 1
 First paper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_paper1))
+({{% resource_link 4eac292a-f730-b649-684f-6f6f9821a344 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_s2_paper1))
+({{% resource_link ffeb4c50-9e3d-4d0c-1599-cffff81aa6fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,10 +56,10 @@ First paper
 Comprehension exercise 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_comp2))
+({{% resource_link 7aaacbc5-4160-bb1f-9432-34be470a02ae "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_s2_comp2))
+({{% resource_link 5a473d7a-b0b7-858d-e329-1679a7e4bfba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,10 +68,10 @@ Comprehension exercise 2
 Second paper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_paper2))
+({{% resource_link 7b4e2f2f-2a60-cf9f-dafa-4902dae0d90f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_251f11_s2_paper2))
+({{% resource_link 86acaa96-b4ed-4e5a-af82-1e20d30551a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
