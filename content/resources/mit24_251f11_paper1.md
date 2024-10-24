@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to paper 1 topics.
-file: /courses/24-251-introduction-to-philosophy-of-language-fall-2011/4eac292af730b649684f6f6f9821a344_MIT24_251F11_paper1.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-fall-2011/4eac292af730b649684f6f6f9821a344_MIT24_251F11_paper1.pdf
 file_size: 68088
 file_type: application/pdf
 learning_resource_types:
