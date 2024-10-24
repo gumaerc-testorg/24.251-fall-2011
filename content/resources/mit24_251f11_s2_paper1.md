@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to analyticity, reductionism,
   and semantic holism.
-file: /courses/24-251-introduction-to-philosophy-of-language-fall-2011/ffeb4c509e3d4d0c1599cffff81aa6fd_MIT24_251F11_s2_paper1.pdf
+file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-fall-2011/ffeb4c509e3d4d0c1599cffff81aa6fd_MIT24_251F11_s2_paper1.pdf
 file_size: 47439
 file_type: application/pdf
 learning_resource_types:
