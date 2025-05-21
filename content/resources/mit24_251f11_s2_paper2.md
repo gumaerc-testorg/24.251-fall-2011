@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to the kripkenstein paradox
   and the private world.
-file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-fall-2011/86acaa96b4ed4e5aaf821e20d30551a5_MIT24_251F11_s2_paper2.pdf
+file: /courses/24-251-introduction-to-philosophy-of-language-fall-2011/86acaa96b4ed4e5aaf821e20d30551a5_MIT24_251F11_s2_paper2.pdf
 file_size: 50734
 file_type: application/pdf
 learning_resource_types:
