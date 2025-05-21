@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to prop-oriented make-believe.
-file: /ol-ocw-studio-app/courses/24-251-introduction-to-philosophy-of-language-fall-2011/db6d6cb26587ffb59f841f6c5af5a519_MIT24_251F11_s1_paper2.pdf
+file: /courses/24-251-introduction-to-philosophy-of-language-fall-2011/db6d6cb26587ffb59f841f6c5af5a519_MIT24_251F11_s1_paper2.pdf
 file_size: 56792
 file_type: application/pdf
 learning_resource_types:
