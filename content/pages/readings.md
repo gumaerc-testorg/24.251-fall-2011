@@ -298,9 +298,9 @@ Presupposition
 {{< tdopen >}}
 
 
-Stalnaker, Robert. "[Presuppositions](http://www.jstor.org/discover/10.2307/30226075?uid=3737496&uid=2&uid=4&sid=21100686062501)." _Journal of Philosophical Logic_ 2, no. 4 (1973): 447–57.
+Stalnaker, Robert. "{{% resource_link "d8e7588e-95c0-4d14-b404-f499fa840266" "Presuppositions" %}}." _Journal of Philosophical Logic_ 2, no. 4 (1973): 447–57.
 
-Fintel, Kai von. "Would You Believe It? The King of France is Back! (Presuppositions and Truth-Value Intuitions)." In _Descriptions and Beyond_. Edited by Marga Reimer and Anne Bezuidenhout. Oxford University Press, 2004, pp. 315–41. ISBN: 9780199270521. \[Preview with [Google Books](http://books.google.com/books?id=MGIJwHyYdiEC&pg=PA315#v=onepage)\]
+Fintel, Kai von. "Would You Believe It? The King of France is Back! (Presuppositions and Truth-Value Intuitions)." In _Descriptions and Beyond_. Edited by Marga Reimer and Anne Bezuidenhout. Oxford University Press, 2004, pp. 315–41. ISBN: 9780199270521. \[Preview with {{% resource_link "1fcd1753-1e96-4cef-b971-7fff51aea508" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -352,9 +352,9 @@ Attitudes, the hidden indexical theory
 {{< tdopen >}}
 
 
-Crimmins, Mark, and John Perry. "[The Prince and the Phone Booth: Reporting Puzzling Beliefs](http://www.jstor.org/stable/2027014)." _The Journal of Philosophy_ 86, no. 12 (1989): 685–711.
+Crimmins, Mark, and John Perry. "{{% resource_link "f7d571b7-e7d7-434c-b8c7-06637d363056" "The Prince and the Phone Booth: Reporting Puzzling Beliefs" %}}." _The Journal of Philosophy_ 86, no. 12 (1989): 685–711.
 
-Saul, Jennifer M. "[Substitution and Simple Sentences](http://dx.doi.org/10.1111/1467-8284.00060)." _Analysis_ 57, no. 2 (1997): 102–8.
+Saul, Jennifer M. "{{% resource_link "1b62a799-7ce4-44c8-99c9-dfb7201351b3" "Substitution and Simple Sentences" %}}." _Analysis_ 57, no. 2 (1997): 102–8.
 
 
 {{< tdclose >}}
@@ -370,9 +370,9 @@ Attitudes, the implicature theory
 {{< tdopen >}}
 
 
-Braun, David. "[Understanding Belief Reports](http://www.jstor.org/stable/2998375)." _The Philosophical Review_ 107, no. 4 (1998): 555–95.
+Braun, David. "{{% resource_link "fa7b47df-11fc-42f5-b3d0-2ced7bb10be6" "Understanding Belief Reports" %}}." _The Philosophical Review_ 107, no. 4 (1998): 555–95.
 
-Salmon, Nathan. "[How to Become a Millian Heir](http://www.jstor.org/stable/2215980)." _Noûs_ 23, no. 2 (1989): 211–20.
+Salmon, Nathan. "{{% resource_link "0ffde0af-eff7-4127-b083-ed834a332abd" "How to Become a Millian Heir" %}}." _Noûs_ 23, no. 2 (1989): 211–20.
 
 
 {{< tdclose >}}
@@ -416,7 +416,7 @@ Davidson, Donald. "What Metaphors Mean." Chapter 34 in \[Martinich\].
 Making believe
 {{< tdclose >}}
 {{< tdopen >}}
-Walton, Kendall. "[Metaphor and Prop Oriented Make-Believe](http://dx.doi.org/10.1111/j.1468-0378.1993.tb00023.x)." _European Journal of Philosophy_ 1, no. 1 (1993): 39–57.
+Walton, Kendall. "{{% resource_link "7ea09b0b-178e-43d6-ad47-51ba07929fe5" "Metaphor and Prop Oriented Make-Believe" %}}." _European Journal of Philosophy_ 1, no. 1 (1993): 39–57.
 {{< tdclose >}}
 
 {{< trclose >}}
